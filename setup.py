@@ -47,6 +47,6 @@ setup(
         'SQLAlchemy',
         'formencode',
         'passlib',
-        'pyDNS',
+#        'pyDNS',
     ]
 )
